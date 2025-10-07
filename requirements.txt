@@ -1,0 +1,11 @@
+#import all required for langgraph
+langgraph
+langchain
+langchain_community
+langchain_core
+langchain_openai
+langchain_community
+gradio
+dotenv
+IPython
+pydantic
